@@ -34,7 +34,6 @@ WEIGHTS_DIR = "./weights"
 MODEL_DIR = "./models"
 MODEL_NAME = "Colorization_model"
 IMGS_DIR = "./images"
-HANA_DIR = "./hana"
 VALID_P = 0.2
 TEST_P = 0.01
 #  ==================================
